@@ -20,7 +20,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '牙膏妹妹',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'PDU16933TgDW2C6qZBXOuIJgPGsMetCw6d1taC0a3',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
